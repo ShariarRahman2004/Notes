@@ -11,10 +11,14 @@
             "id": "8fa056633cfe7ce9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ems602u/Intro.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro"
             }
           }
         ]
@@ -176,11 +180,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "8fa056633cfe7ce9",
   "lastOpenFiles": [
+    "ems602u/Intro.md",
     "ems602u",
     "terminal.md",
     "Purpose.md",
