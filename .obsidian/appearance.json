@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Osaka Jade"
+  "cssTheme": "Osaka Jade",
+  "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "textFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono"
 }
