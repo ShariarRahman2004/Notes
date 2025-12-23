@@ -1,0 +1,1 @@
+https://godbolt.org/z/P9aMEGh9n
